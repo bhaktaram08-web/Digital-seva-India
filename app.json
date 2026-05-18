@@ -1,8 +1,8 @@
-
 {
   "expo": {
     "name": "Digital Seva India",
     "slug": "digital-seva-india",
+    "owner": "bhaktaram08-web",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./android-icon-foreground.png",
@@ -20,6 +20,11 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.bhaktaram.digitalsevaindia"
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
     }
   }
 }
