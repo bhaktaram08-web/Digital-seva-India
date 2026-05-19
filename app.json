@@ -1,11 +1,31 @@
-
 {
   "expo": {
     "name": "Digital Seva India",
     "slug": "digital-seva-india",
+    "owner": "bhaktaram08-web",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./android-icon-foreground.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./android-icon-foreground.png",
+        "backgroundColor": "#ffffff"
+      },
       "package": "com.bhaktaram.digitalsevaindia"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a2b0cb3f-561b-4b13-91b3-463dfb12c623"
+      }
     }
   }
 }
+
