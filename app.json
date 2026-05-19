@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "Digital Seva India",
@@ -20,12 +21,6 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.bhaktaram.digitalsevaindia"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "a2b0cb3f-561b-4b13-91b3-463dfb12c623"
-      }
     }
   }
 }
-
